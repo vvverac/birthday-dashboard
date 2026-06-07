@@ -1,0 +1,13 @@
+month,flower,birthstone,color,flower_img,gem_img
+1,Carnation,Garnet,#F8E3E6,images/january_flower.png,images/january_gem.png
+2,Violet,Amethyst,#EDE3F8,images/february_flower.png,images/february_gem.png
+3,Daffodil,Aquamarine,#E3F3F8,images/march_flower.png,images/march_gem.png
+4,Daisy,Diamond,#F2F2F2,images/april_flower.png,images/april_gem.png
+5,Lily of the Valley,Emerald,#E3F6EF,images/may_flower.png,images/may_gem.png
+6,Rose,Moonstone,#F0F3FA,images/june_flower.png,images/june_gem.png
+7,Larkspur,Ruby,#FBE3E7,images/july_flower.png,images/july_gem.png
+8,Gladiolus,Peridot,#ECF7E3,images/august_flower.png,images/august_gem.png
+9,Aster,Sapphire,#E3ECF8,images/september_flower.png,images/september_gem.png
+10,Marigold,Opal,#FCEAF2,images/october_flower.png,images/october_gem.png
+11,Chrysanthemum,Topaz,#FFF3E0,images/november_flower.png,images/november_gem.png
+12,Narcissus,Tanzanite,#EDE7F9,images/december_flower.png,images/december_gem.png
